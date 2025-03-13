@@ -9,7 +9,7 @@ description: String,
 price: Float,
 quantity: Int,
 onStock: Boolean,
-category: String
+category: Category
 
 }
 
