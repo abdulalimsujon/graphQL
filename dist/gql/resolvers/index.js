@@ -10,7 +10,14 @@ export const resolvers = {
             return db.categories.find(cat => cat.id === args.categoryId);
         },
     },
-    // Fix the typo: Change 'product' to 'Product'
+    Product: {
+        category: (parent, args, context) => {
+            return db.categories.find(category => category.id === parent.categoryId);
+        },
+        reviews: (parent, args, context) => {
+            return db.reviews.filter(review => review.productId === parent.id);
+        }
+    },
     Category: {
         products: (parent, args, context) => {
             return db.products.filter(product => product.categoryId === parent.id);

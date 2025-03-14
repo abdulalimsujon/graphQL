@@ -176,6 +176,99 @@ const categories = [
         "name": "Charging Devices"
     }
 ];
+const reviews = [
+    {
+        "id": "65f3c1d9e5a3d9b2f4g7h8a1",
+        "review": "Great wireless mouse, very responsive!",
+        "rating": 4.5,
+        "date": "2025-03-10",
+        "productId": "65f2b1c9e4b2d8a1f3e6d7a1"
+    },
+    {
+        "id": "65f3c1d9e5a3d9b2f4g7h8a2",
+        "review": "Keyboard has great tactile feedback, perfect for gaming!",
+        "rating": 5.0,
+        "date": "2025-03-08",
+        "productId": "65f2b1c9e4b2d8a1f3e6d7a2"
+    },
+    {
+        "id": "65f3c1d9e5a3d9b2f4g7h8a3",
+        "review": "Amazing sound quality, but a little heavy.",
+        "rating": 4.2,
+        "date": "2025-03-09",
+        "productId": "65f2b1c9e4b2d8a1f3e6d7a3"
+    },
+    {
+        "id": "65f3c1d9e5a3d9b2f4g7h8a4",
+        "review": "Very useful USB-C hub, works perfectly with my MacBook.",
+        "rating": 4.8,
+        "date": "2025-03-07",
+        "productId": "65f2b1c9e4b2d8a1f3e6d7a4"
+    },
+    {
+        "id": "65f3c1d9e5a3d9b2f4g7h8a5",
+        "review": "Nice smartwatch, but the battery life could be better.",
+        "rating": 3.9,
+        "date": "2025-03-06",
+        "productId": "65f2b1c9e4b2d8a1f3e6d7a5"
+    },
+    {
+        "id": "65f3c1d9e5a3d9b2f4g7h8a6",
+        "review": "Super fast SSD, really helps with large file transfers.",
+        "rating": 5.0,
+        "date": "2025-03-05",
+        "productId": "65f2b1c9e4b2d8a1f3e6d7a6"
+    },
+    {
+        "id": "65f3c1d9e5a3d9b2f4g7h8a7",
+        "review": "Decent speaker for the price, but lacks deep bass.",
+        "rating": 4.0,
+        "date": "2025-03-04",
+        "productId": "65f2b1c9e4b2d8a1f3e6d7a7"
+    },
+    {
+        "id": "65f3c1d9e5a3d9b2f4g7h8a8",
+        "review": "Cooling pad is effective, but a bit noisy.",
+        "rating": 3.8,
+        "date": "2025-03-03",
+        "productId": "65f2b1c9e4b2d8a1f3e6d7a8"
+    },
+    {
+        "id": "65f3c1d9e5a3d9b2f4g7h8a9",
+        "review": "Handy smartphone stand, very sturdy.",
+        "rating": 4.7,
+        "date": "2025-03-02",
+        "productId": "65f2b1c9e4b2d8a1f3e6d7a9"
+    },
+    {
+        "id": "65f3c1d9e5a3d9b2f4g7h8aa",
+        "review": "Good flash drive, but gets warm during use.",
+        "rating": 4.3,
+        "date": "2025-03-01",
+        "productId": "65f2b1c9e4b2d8a1f3e6d7aa"
+    },
+    {
+        "id": "65f3c1d9e5a3d9b2f4g7h8ab",
+        "review": "Reliable external hard drive, great for backups.",
+        "rating": 4.6,
+        "date": "2025-02-28",
+        "productId": "65f2b1c9e4b2d8a1f3e6d7ab"
+    },
+    {
+        "id": "65f3c1d9e5a3d9b2f4g7h8ac",
+        "review": "Smart bulb works well, easy to set up with Alexa.",
+        "rating": 4.9,
+        "date": "2025-02-27",
+        "productId": "65f2b1c9e4b2d8a1f3e6d7ac"
+    },
+    {
+        "id": "65f3c1d9e5a3d9b2f4g7h8ad",
+        "review": "Wireless charger works well, but slow charging for iPhones.",
+        "rating": 3.7,
+        "date": "2025-02-26",
+        "productId": "65f2b1c9e4b2d8a1f3e6d7ad"
+    }
+];
 export const db = {
-    products, categories
+    products, categories, reviews
 };
