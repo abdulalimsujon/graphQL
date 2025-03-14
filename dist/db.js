@@ -7,7 +7,7 @@ const products = [
         "price": 25.99,
         "quantity": 150,
         "onStock": true,
-        "categoryIdId": "65f2b1c9e4b2d8a1f3e6d7b1"
+        "categoryId": "65f2b1c9e4b2d8a1f3e6d7b1"
     },
     {
         "id": "65f2b1c9e4b2d8a1f3e6d7a2",
@@ -87,7 +87,7 @@ const products = [
         "price": 12.99,
         "quantity": 200,
         "onStock": true,
-        "categoryIdId": "65f2b1c9e4b2d8a1f3e6d7b8"
+        "categoryId": "65f2b1c9e4b2d8a1f3e6d7b8"
     },
     {
         "id": "65f2b1c9e4b2d8a1f3e6d7aa",
@@ -97,7 +97,7 @@ const products = [
         "price": 15.99,
         "quantity": 300,
         "onStock": true,
-        "categoryIdId": "65f2b1c9e4b2d8a1f3e6d7b9"
+        "categoryId": "65f2b1c9e4b2d8a1f3e6d7b9"
     },
     {
         "id": "65f2b1c9e4b2d8a1f3e6d7ab",
@@ -107,7 +107,7 @@ const products = [
         "price": 89.99,
         "quantity": 75,
         "onStock": true,
-        "categoryIdId": "65f2b1c9e4b2d8a1f3e6d7b5"
+        "categoryId": "65f2b1c9e4b2d8a1f3e6d7b5"
     },
     {
         "id": "65f2b1c9e4b2d8a1f3e6d7ac",
@@ -117,7 +117,7 @@ const products = [
         "price": 19.99,
         "quantity": 120,
         "onStock": true,
-        "categoryIdId": "65f2b1c9e4b2d8a1f3e6d7c1"
+        "categoryId": "65f2b1c9e4b2d8a1f3e6d7c1"
     },
     {
         "id": "65f2b1c9e4b2d8a1f3e6d7ad",
@@ -127,7 +127,7 @@ const products = [
         "price": 24.99,
         "quantity": 110,
         "onStock": true,
-        "categoryIdId": "65f2b1c9e4b2d8a1f3e6d7c2"
+        "categoryId": "65f2b1c9e4b2d8a1f3e6d7c2"
     }
 ];
 const categories = [

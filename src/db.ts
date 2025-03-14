@@ -8,7 +8,7 @@
         "price": 25.99,
         "quantity": 150,
         "onStock": true,
-        "category": "65f2b1c9e4b2d8a1f3e6d7b1"
+        "categoryId": "65f2b1c9e4b2d8a1f3e6d7b1"
       },
       {
         "id": "65f2b1c9e4b2d8a1f3e6d7a2",
@@ -18,7 +18,7 @@
         "price": 79.99,
         "quantity": 80,
         "onStock": true,
-        "category": "65f2b1c9e4b2d8a1f3e6d7b1"
+        "categoryId": "65f2b1c9e4b2d8a1f3e6d7b1"
       },
       {
         "id": "65f2b1c9e4b2d8a1f3e6d7a3",
@@ -28,7 +28,7 @@
         "price": 59.99,
         "quantity": 60,
         "onStock": true,
-        "category": "65f2b1c9e4b2d8a1f3e6d7b2"
+        "categoryId": "65f2b1c9e4b2d8a1f3e6d7b2"
       },
       {
         "id": "65f2b1c9e4b2d8a1f3e6d7a4",
@@ -38,7 +38,7 @@
         "price": 34.99,
         "quantity": 40,
         "onStock": true,
-        "category": "65f2b1c9e4b2d8a1f3e6d7b3"
+        "categoryId": "65f2b1c9e4b2d8a1f3e6d7b3"
       },
       {
         "id": "65f2b1c9e4b2d8a1f3e6d7a5",
@@ -48,7 +48,7 @@
         "price": 99.99,
         "quantity": 25,
         "onStock": true,
-        "category": "65f2b1c9e4b2d8a1f3e6d7b4"
+        "categoryId": "65f2b1c9e4b2d8a1f3e6d7b4"
       },
       {
         "id": "65f2b1c9e4b2d8a1f3e6d7a6",
@@ -58,7 +58,7 @@
         "price": 129.99,
         "quantity": 30,
         "onStock": true,
-        "category": "65f2b1c9e4b2d8a1f3e6d7b5"
+        "categoryId": "65f2b1c9e4b2d8a1f3e6d7b5"
       },
       {
         "id": "65f2b1c9e4b2d8a1f3e6d7a7",
@@ -68,7 +68,7 @@
         "price": 45.99,
         "quantity": 90,
         "onStock": true,
-        "category": "65f2b1c9e4b2d8a1f3e6d7b6"
+        "categoryId": "65f2b1c9e4b2d8a1f3e6d7b6"
       },
       {
         "id": "65f2b1c9e4b2d8a1f3e6d7a8",
@@ -78,7 +78,7 @@
         "price": 29.99,
         "quantity": 50,
         "onStock": true,
-        "category": "65f2b1c9e4b2d8a1f3e6d7b7"
+        "categoryId": "65f2b1c9e4b2d8a1f3e6d7b7"
       },
       {
         "id": "65f2b1c9e4b2d8a1f3e6d7a9",
@@ -88,7 +88,7 @@
         "price": 12.99,
         "quantity": 200,
         "onStock": true,
-        "category": "65f2b1c9e4b2d8a1f3e6d7b8"
+        "categoryId": "65f2b1c9e4b2d8a1f3e6d7b8"
       },
       {
         "id": "65f2b1c9e4b2d8a1f3e6d7aa",
@@ -98,7 +98,7 @@
         "price": 15.99,
         "quantity": 300,
         "onStock": true,
-        "category": "65f2b1c9e4b2d8a1f3e6d7b9"
+        "categoryId": "65f2b1c9e4b2d8a1f3e6d7b9"
       },
       {
         "id": "65f2b1c9e4b2d8a1f3e6d7ab",
@@ -108,7 +108,7 @@
         "price": 89.99,
         "quantity": 75,
         "onStock": true,
-        "category": "65f2b1c9e4b2d8a1f3e6d7b5"
+        "categoryId": "65f2b1c9e4b2d8a1f3e6d7b5"
       },
       {
         "id": "65f2b1c9e4b2d8a1f3e6d7ac",
@@ -118,7 +118,7 @@
         "price": 19.99,
         "quantity": 120,
         "onStock": true,
-        "category": "65f2b1c9e4b2d8a1f3e6d7c1"
+        "categoryId": "65f2b1c9e4b2d8a1f3e6d7c1"
       },
       {
         "id": "65f2b1c9e4b2d8a1f3e6d7ad",
@@ -128,7 +128,7 @@
         "price": 24.99,
         "quantity": 110,
         "onStock": true,
-        "category": "65f2b1c9e4b2d8a1f3e6d7c2"
+        "categoryId": "65f2b1c9e4b2d8a1f3e6d7c2"
       }
     ]
 
